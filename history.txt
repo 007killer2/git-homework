@@ -1,0 +1,500 @@
+   15  git config
+   16  clear
+   17  git config --global user
+   18  git config --global
+   19  git config --global user.name
+   20  git config --global user.email
+   21  git config --global user.name "Artem"
+   22  git config --global user.name
+   23  git config --global user.email "savenko.artem@gmx.de"
+   24  git config --global user.name
+   25  git config --global user.name "Artem Savenko"
+   26  git config --global user.email
+   27  code .
+   28  cd
+   29  git help
+   30  git config
+   31  git config --global user.name
+   32  git config --global user.name "007killer2"
+   33  git config --global user.email "savenko.artem@gmx.de"
+   34  code .
+   35  code .
+   36  gradlew.bat build
+   37  gradle build
+   38  gradle
+   39  help
+   40  gradle .
+   41  cd
+   42  gradle.bat build
+   43  gradle .
+   44  clear
+   45  gradle help
+   46  gradlew.bat build
+   47  chmod +x gradlew.bat
+   48  gradlew.bat build
+   49  code .
+   50  code .
+   51  code.
+   52  code .
+   53  code .
+   54  code .
+   55  code .
+   56  code .
+   57  code .
+   58  code .
+   59  code .
+   60  cd
+   61  code .
+   62  code .
+   63  code .
+   64  code .
+   65  code .
+   66  code .
+   67  code .
+   68  code .
+   69  code .
+   70  code .
+   71  code .
+   72  code .
+   73  code .
+   74  code .
+   75  code .
+   76  code .
+   77  code .
+   78  code .
+   79  code .
+   80  code .
+   81  code .
+   82  git clone https://github.com/007killer2/WebDevelopmentLearn.git
+   83  git clone http://github.com/007killer2/WebDevelopmentLearn.git
+   84  git clone
+   85  git clone github.com/007killer2/WebDevelopmentLearn.git
+   86  git clone 007killer2/WebDevelopmentLearn.git
+   87  code .
+   88  code .
+   89  code .
+   90  code .
+   91  code .
+   92  code .
+   93  code .
+   94  code .
+   95  code .
+   96  code .
+   97  code .
+   98  code .
+   99  code .
+  100  code .
+  101  code .
+  102  code .
+  103  code .
+  104  code .
+  105  code .
+  106  code .
+  107  code .
+  108  code .
+  109  code .
+  110  code .
+  111  code .
+  112  сщву ю
+  113  code .
+  114  code 
+  115  code .
+  116  code .
+  117  code .
+  118  pwd
+  119  pwd
+  120  cd
+  121  ssh-keygen
+  122  cat .ssh/id_ed25519.pub
+  123  cd
+  124  cd
+  125  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  126  св
+  127  cd
+  128  clear
+  129  cd
+  130  df > 1041.txt
+  131  scp 1041.txt ec2-user@linux.itcareerhub.de:/opt/040324-wd/artem
+  132  cd
+  133  cat .ssh/id_ed25519.pub 
+  134  code .
+  135  code .
+  136  code .
+  137  code .
+  138  code .
+  139  code .
+  140  code .
+  141  code .
+  142  cd
+  143  ps
+  144  ps -ef
+  145  code .
+  146  code .
+  147  code .
+  148  code .
+  149  code .
+  150  code .
+  151  code .
+  152  code .
+  153  code .
+  154  code .
+  155  code .
+  156  code .
+  157  code .
+  158  ocde .
+  159  code .
+  160  code .
+  161  code .
+  162  git --config user.name
+  163  git --config global user.name
+  164  git config user.name
+  165  git config user.email
+  166  git status
+  167  clear
+  168  cd
+  169  cat .ssh/id_ed25519.pub
+  170  cd
+  171  mkdir git
+  172  cd /git
+  173  cd /git/
+  174  cd git
+  175  pwd
+  176  /c/Users/Artem/git
+  177  echo "# git" >> README.md
+  178  ls
+  179  cat README.md 
+  180  git init
+  181  git add README.md
+  182  git commit -m "first commit"
+  183  git branch -M main
+  184  git add .
+  185  mkdir src
+  186  git status
+  187  echo "hello world" >> src/test.txt
+  188  git status
+  189  git add .
+  190  git status
+  191  ls -la
+  192  ls -la src/
+  193  cat src/test.txt 
+  194  git status
+  195  git add .
+  196  git status
+  197  echo "hello user" >> src/test.txt
+  198  git status
+  199  git add .
+  200  git status
+  201  git commit
+  202  cd
+  203  cd /git
+  204  cd /git/
+  205  cd git
+  206  git commit -m "second commit"
+  207  git remote add origin git@github.com:007killer2/git.git
+  208  git remote -v
+  209  git push - u origin main
+  210  git push -u origin main
+  211  mkdir git_intro
+  212  cd git_intro/
+  213  git init
+  214  git status
+  215  git add Star_Wars_JFO_Merrin.png 
+  216  git status
+  217  git commit -m "Added photo"
+  218  git branch -M main
+  219  pwd
+  220  git remote origin git@github.com:007killer2/git_intro.git
+  221  git remote add origin git@github.com:007killer2/git_intro.git
+  222  git push -u origin main
+  223  history
+  224  history > log.txt
+  225  cat log
+  226  ls
+  227  cat log.txt 
+  228  git add log.txt 
+  229  git commit -m "Add history commands file"
+  230  git status
+  231  git push -u origin main
+  232  git init
+  233  pwd
+  234  echo "# TestProject" >> README.MD
+  235  git add .
+  236  git status
+  237  git commit -m "first commit"
+  238  git branch -M main
+  239  git remote add origin git@github.com:007killer2/TestProject.git
+  240  git push -u origin main
+  241  git log
+  242  code .
+  243  code .
+  244  code .
+  245  code .
+  246  code .
+  247  git status
+  248  git add .
+  249  git status
+  250  git commit -m "Попытка пофиксить ветку"
+  251  git push origin learn_project 
+  252  code .
+  253  code .
+  254  code .
+  255  code .
+  256  code .
+  257  code .
+  258  code .
+  259  git remove -v
+  260  git remote -v
+  261  pwd
+  262  echo "# git" >> README.md
+  263  ls -l
+  264  git init
+  265  ls -la
+  266  git rev parse --show-toplevel
+  267  git rev-parse --show-toplevel
+  268  git status
+  269  git add .
+  270  git status
+  271  history
+  272  git commit -m "First commit"
+  273  git status
+  274  git branch -M main
+  275  git status
+  276  git remote add origin git@github.com:007killer2/git.git
+  277  git push -u origin main
+  278  ls -la
+  279  echo "test" >> log.txt 
+  280  cat log.txt 
+  281  git status
+  282  git commit -m "Updating log file"
+  283  git commit -m "Updating log file"
+  284  git add .
+  285  git status
+  286  git commit -m "Updating log file"
+  287  git remote -v
+  288  git branch 
+  289  git branch --help
+  290  git log
+  291  git branch 
+  292  git branch test
+  293  git branch 
+  294  git branch -b test 
+  295  git branch 
+  296  git checkout -b test
+  297  git checkout test
+  298  git checkout main 
+  299  git checkout test
+  300  ls -la
+  301  echo "Hello Artem" >> log.txt 
+  302  git status
+  303  git add .
+  304  git commit -m "Updating log file"
+  305  echo "Hello Artem" >> log.txt 
+  306  git add .
+  307  git commit -m "Обновление лог файла"
+  308  git push -m origin test
+  309  git push --set-upstream origin test
+  310  git branch 
+  311  git branch -d test
+  312  git branch -D test
+  313  git checkout main
+  314  git branch -d test
+  315  git branch
+  316  git log
+  317  git clone git@github.com:007killer2/bashscripts.git
+  318  ls -l
+  319  cd bashscripts/
+  320  git clone git@github.com:aliaskov/bashscripts.git
+  321  cd bashscripts/
+  322  cd
+  323  pwd
+  324  git init
+  325  git checkout -b gitignore
+  326  git config --global core.excludesfile .gitignore
+  327  git config --global core.excludesfile
+  328  nano .gitignore
+  329  echo "Hello world" > test.txt
+  330  mv --help
+  331  mv ../backup.json .
+  332  ls -la
+  333  cat backup.json >> test.txt
+  334  git add .
+  335  git status
+  336  git commit -m "First commit"
+  337  git remote add origin git@github.com:007killer2/git-branch.git
+  338  git push -u origin gitignore 
+  339  history
+  340  history > history.txt | tail -16
+  341  ls -l
+  342  cat history.txt 
+  343  history > history.txt | tail -n 16
+  344  cat history.txt 
+  345  git branch 
+  346  cd
+  347  git init
+  348  ggit rev-parse --show-toplevel
+  349  git rev-parse --show-toplevel
+  350  ls -l
+  351  cd
+  352  rm -rf .git
+  353  rm -rf .git/
+  354  git init
+  355  rm -rf .git/
+  356  ls -l
+  357  git clone git@github.com:007killer2/bashscripts.git
+  358  cd bashscripts/
+  359  ls -la | grep .gitignore
+  360  nano .gitignore 
+  361  code .
+  362  code .
+  363  code .
+  364  code .
+  365  git init
+  366  git status
+  367  git add .
+  368  git commit -m "Initial commit"
+  369  git branch -M main
+  370  git remote add origin git@github.com:WebDevelopmentLearn/NotesPage.git
+  371  git push -u origin mai
+  372  git push -u origin main
+  373  code .
+  374  git remote add origin git@github.com:WebDevelopmentLearn/LearnProject-1.git
+  375  git remote remove origin
+  376  git remote add origin git@github.com:WebDevelopmentLearn/LearnProject-1.git
+  377  git remote add origin git@github.com:WebDevelopmentLearn/LearnProject-1.git
+  378  git rev-parse --show-toplevel
+  379  git status
+  380  git branch 
+  381  git remote -v
+  382  git push -u origin main
+  383  git push -u origin learn_project
+  384  git branch -m learn_project main
+  385  git fetch origin
+  386  git branch -u origin/main main
+  387  git remote set-head origin -a
+  388  git checkout -m main
+  389  git pull
+  390  ls -la
+  391  cat id_ed25519.pub 
+  392  tail --help
+  393  code .
+  394  code .
+  395  code .
+  396  scp ec2-user@linux.itcareerrhub.de:/opt/040324-wde/artem/1041.txt
+  397  scp ec2-user@linux.itcareerrhub.de:/opt/040324-wde/artem/1041.txt .
+  398  scp ec2-user@linux.itcareerhub.de:/opt/040324-wde/artem/1041.txt .
+  399  history
+  400  code .
+  401  code .
+  402  code .
+  403  code .
+  404  ls -l
+  405  ls -la
+  406  git remote
+  407  git remote -v
+  408  nano test.txt
+  409  git status
+  410  git commit -am "Edate files"
+  411  git log
+  412  git commit --help
+  413  git status
+  414  git add history.txt 
+  415  git status
+  416  vi history.txt 
+  417  vi history.txt 
+  418  git status
+  419  git add history.txt 
+  420  git status
+  421  git commit --amed -m "Edit test.txt + Add history.txt"
+  422  git commit --amend -m "Edit test.txt + Add history.txt"
+  423  git log
+  424  nano test.txt 
+  425  git commit -m "Edit 2 file test.txt"
+  426  git add test.txt 
+  427  git commit -m "Edit 2 file test.txt"
+  428  git log
+  429  git reset HEAD~1
+  430  GIT LOG
+  431  git log
+  432  git status
+  433  nano test.txt 
+  434  git commit -m "Edit 3 file test.txt"
+  435  git commit -am "Edit 3 file test.txt"
+  436  git status
+  437  git log
+  438  git push
+  439  git log
+  440  git revert HEAD
+  441  git log
+  442  cat test.txt 
+  443  git status
+  444  git push
+  445  git branch -v
+  446  git branch
+  447  git merge main
+  448  git checkout -b main
+  449  git merge gitignore 
+  450  git push
+  451  git push --set-upstream origin main
+  452  git merge gitignore 
+  453  git push
+  454  git log --oneline --graph --decorate
+  455  nano 123.txt
+  456  git add 123.txt 
+  457  git commit -m "Add 123.txt"
+  458  git push
+  459  git checkout gitignore 
+  460  nano qwe.txt
+  461  git add qwe.txt 
+  462  git commit -m "Add qwe.txt"
+  463  git push
+  464  git merge main 
+  465  git log --oneline --graph --decorate
+  466  git push
+  467  history
+  468  code .
+  469  git remote add origin git@github.com:WebDevelopmentLearn/AuthPage.git
+  470  git branch -M main
+  471  git push -u origin main
+  472  git init
+  473  git status
+  474  git add .
+  475  git branch -M main
+  476  git commit -m "Initial commit"
+  477  git remote add origin git@github.com:007killer2/git-homework.git
+  478  git push -u origin main 
+  479  nano .gitignore
+  480  git status
+  481  git commit -am "Add .gitignore"
+  482  git add .
+  483  git commit -m "Add .gitignore"
+  484  git push
+  485  git checkout -b featture
+  486  nano text.txt
+  487  ls -la
+  488  echo "#git-homework" > README.MD
+  489  ls -la
+  490  cat README.MD 
+  491  git status
+  492  git add .
+  493  git commit -m "Add README.MD"
+  494  git push
+  495  git push --set-upstream origin featture 
+  496  nano README.MD 
+  497  git commit -m "Updt file README.MD"
+  498  git commit -ma "Updt file README.MD"
+  499  git commit -am "Updt file README.MD"
+  500  git commit --amend "Update file README.MD"
+  501  git commit --amend
+  502  clear
+  503  git log
+  504  git push
+  505  nano README.MD 
+  506  git commit -am "Updt file README.MD"
+  507  git commit --amend
+  508  git push
+  509  git checkout main 
+  510  git merge featture 
+  511  git log
+  512  git status
+  513  git push
+  514  history > history.txt
