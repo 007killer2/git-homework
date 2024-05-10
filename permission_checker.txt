@@ -1,0 +1,17 @@
+#!/bin/bash
+
+FILES=`ls -la`
+echo "$FILES"
+
+PERMS=`ls -la /opt/040324-wde/ | awk '{print $1 ORS}'`
+echo "$PERMS"
+
+DIR="/opt/040324-wde/artem/"
+for FILE in "$DIR"/*; do
+if [[ "$FILE" == *.sh ]]; then
+	echo "File: $FILE is .sh"
+	echo `chmod 755 $FILE`
+else 
+	echo "File: $FILE not a .sh"
+fi
+done
